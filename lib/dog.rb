@@ -10,6 +10,6 @@ class Dog
   def (new_breed)
     @new breed
   end
-  def
+  
 end
     

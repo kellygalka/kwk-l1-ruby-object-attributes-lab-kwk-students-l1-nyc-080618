@@ -3,11 +3,11 @@ class Dog
   def name
     @name
   end
-  def (new_name)
+  def new_name
     @new name
   def breed 
     @breed
-  def (new_breed)
+  def new_breed
     @new breed
   end
   
